@@ -1,0 +1,29 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Turtle graphics output (if any images are saved)
+*.eps
+*.png
+
+# Environment files
+.env
+*.env
+.config
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebooks
+*.ipynb
+
+# Virtual environments
+
+# 
